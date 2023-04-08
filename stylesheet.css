@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .align-left {
+    width: 50%;
+    background-color: #f1f1f1;
+  }
+  
+  .align-right {
+    width: 50%;
+    background-color: #ccc;
+  }
+  
